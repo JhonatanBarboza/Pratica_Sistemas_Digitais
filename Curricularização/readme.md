@@ -17,3 +17,5 @@ Os registradores são componentes responsáveis pelo armazenamento de informaç�
 A memória, assim como os registradores, também é um componente que armazena informações, porém a memória apresenta a capacidade de manutenção permanente dos dados/instruções. Idealmente, os processadores possuem dois tipos de memória:
   * Memória de instruções: onde estarão contidas as instruções a serem executadas.
   * Memória de dados: onde será armazenados valores de operações feitas no processador.
+
+## Integração
