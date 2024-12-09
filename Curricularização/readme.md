@@ -15,7 +15,7 @@ Os registradores são componentes responsáveis pelo armazenamento de informaç�
 
 ### Memória
 
-A memória, assim como os registradores, também é um componente que armazena informações, porém a memória apresenta a capacidade de manutenção permanente dos dados/instruções.
+A memória, assim como os registradores, é um componente fundamental responsável pelo armazenamento de informações. No entanto, ao contrário dos registradores, a memória possui a capacidade de manter de forma permanente os dados e instruções, permitindo que as informações sejam preservadas ao longo do tempo, mesmo após o processamento das tarefas. Essa característica a torna essencial para o funcionamento contínuo e eficiente do sistema, proporcionando a persistência necessária para a execução de programas e a recuperação de dados durante o ciclo de operação do processador.
 
 ## Integração
 
