@@ -23,3 +23,9 @@ Os principais componentes envolvidos nesse processo incluem:
 Além desses, outros elementos como clock, decodificadores, multiplexadores e controladores de entrada/saída também desempenham papéis cruciais para garantir a sincronia e a funcionalidade do sistema como um todo.  
 
 Por fim, a integração não apenas possibilita o funcionamento do hardware, mas também serve de base para o desenvolvimento de sistemas mais complexos, como arquiteturas paralelas e sistemas embarcados, onde a interação entre componentes precisa ser ainda mais eficiente para atender às demandas específicas.  
+
+
+
+
+![Notas_241209_153906_0](https://github.com/user-attachments/assets/425b4846-b6dc-433a-8b5a-8edb57407e10)
+
