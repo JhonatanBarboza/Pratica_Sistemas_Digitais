@@ -33,7 +33,7 @@ A integração dos componentes requer a criação de conexões que assegurem o f
   * **Instruction Register (IR)**: Armazena a instrução que está sendo processada e a transmite à unidade de controle. Assim, é preciso conectar o registrador de instruções tanto à memória quanto à unidade de controle para que a instrução seja corretamente gerenciada.
   * **Memória**: Recebe o endereço do Program Counter, envia a instrução ao Instruction Register, além de intercambiar dados com o banco de registradores e a ULA. Portanto, a memória deve ser conectada ao Program Counter, ao Instruction Register, ao banco de registradores e à ULA, estabelecendo assim um fluxo contínuo de informações.
 
-![Notas_241209_153906_0](https://github.com/user-attachments/assets/425b4846-b6dc-433a-8b5a-8edb57407e10)
+<img width="154" alt="Captura de tela 2024-12-09 161655" src="https://github.com/user-attachments/assets/62d59460-d3f8-4eb1-b010-2b14e47bfebe">
  
 
 ## Exercícios
@@ -50,8 +50,7 @@ A integração dos componentes requer a criação de conexões que assegurem o f
 
 1)
  
-![Notas_241209_153906_0](https://github.com/user-attachments/assets/425b4846-b6dc-433a-8b5a-8edb57407e10)
-
+<img width="154" alt="Captura de tela 2024-12-09 161655" src="https://github.com/user-attachments/assets/62d59460-d3f8-4eb1-b010-2b14e47bfebe">
    
 2) O Program Counter (PC) deve ser conectado à memória, pois é ele quem envia o endereço para a recuperação das instruções. A memória, por sua vez, precisa estar interligada ao banco de registradores, uma vez que é responsável por fornecer e receber valores, e o mesmo se aplica à Unidade Lógica Aritmética (ULA). O Instruction Register (IR) deve ser ligado à unidade de controle, pois é nele que a instrução atual é armazenada para posterior execução. O banco de registradores e a ULA também devem estar conectados, já que os valores das operações e seus resultados transitam várias vezes entre ambos. Finalmente, a unidade de controle deve ser conectada a todos os componentes, pois é ela que coordena suas atividades, assegurando uma execução eficiente e harmoniosa das tarefas do processador.
 
