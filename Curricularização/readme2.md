@@ -25,7 +25,17 @@ Além desses, outros elementos como clock, decodificadores, multiplexadores e co
 Por fim, a integração não apenas possibilita o funcionamento do hardware, mas também serve de base para o desenvolvimento de sistemas mais complexos, como arquiteturas paralelas e sistemas embarcados, onde a interação entre componentes precisa ser ainda mais eficiente para atender às demandas específicas.  
 
 
-
-
 ![Notas_241209_153906_0](https://github.com/user-attachments/assets/425b4846-b6dc-433a-8b5a-8edb57407e10)
+
+
+
+
+
+
+Qual é a função da unidade de controle?
+A unidade de controle é responsável por coordenar e gerenciar as operações do processador, emitindo sinais de controle para os diversos componentes, como a ULA, registradores e memória, garantindo que atuem de forma sincronizada e correta. Ela interpreta as instruções, determina as ações necessárias, coordena as etapas do ciclo de execução (busca, decodificação, execução e armazenamento) e regula o fluxo de dados em conjunto com o clock. Sem a unidade de controle, o processador seria incapaz de executar instruções de maneira ordenada e eficiente.
+
+
+
+
 
