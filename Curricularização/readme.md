@@ -34,8 +34,7 @@ A integração dos componentes requer a criação de conexões que assegurem o f
   * **Memória**: Recebe o endereço do Program Counter, envia a instrução ao Instruction Register, além de intercambiar dados com o banco de registradores e a ULA. Portanto, a memória deve ser conectada ao Program Counter, ao Instruction Register, ao banco de registradores e à ULA, estabelecendo assim um fluxo contínuo de informações.
 
 
-![Notas_241209_153906_0](https://github.com/user-attachments/assets/05c5aa89-33ce-43c2-a311-2d8854097ec2)
- 
+![Notas_241209_153906_0](https://github.com/user-attachments/assets/30b7b7dc-e4bd-4d0d-9383-9be479b7447b) 
 
 ## Exercícios
 
