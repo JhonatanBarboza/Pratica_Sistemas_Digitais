@@ -33,7 +33,8 @@ A integração dos componentes requer a criação de conexões que assegurem o f
   * **Instruction Register (IR)**: Armazena a instrução que está sendo processada e a transmite à unidade de controle. Assim, é preciso conectar o registrador de instruções tanto à memória quanto à unidade de controle para que a instrução seja corretamente gerenciada.
   * **Memória**: Recebe o endereço do Program Counter, envia a instrução ao Instruction Register, além de intercambiar dados com o banco de registradores e a ULA. Portanto, a memória deve ser conectada ao Program Counter, ao Instruction Register, ao banco de registradores e à ULA, estabelecendo assim um fluxo contínuo de informações.
 
-<img width="154" alt="Captura de tela 2024-12-09 161655" src="https://github.com/user-attachments/assets/62d59460-d3f8-4eb1-b010-2b14e47bfebe">
+
+![Notas_241209_153906_0](https://github.com/user-attachments/assets/05c5aa89-33ce-43c2-a311-2d8854097ec2)
  
 
 ## Exercícios
