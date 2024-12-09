@@ -26,3 +26,21 @@ A integração dos componentes requer a criação de conexões que assegurem o f
   * **Program Counter (PC)**: Responsável por enviar o endereço atual à memória. Dessa forma, é crucial conectar o Program Counter à memória para que a sequência de instruções seja corretamente acessada.
   * **Instruction Register (IR)**: Armazena a instrução que está sendo processada e a transmite à unidade de controle. Assim, é preciso conectar o registrador de instruções tanto à memória quanto à unidade de controle para que a instrução seja corretamente gerenciada.
   * **Memória**: Recebe o endereço do Program Counter, envia a instrução ao Instruction Register, além de intercambiar dados com o banco de registradores e a ULA. Portanto, a memória deve ser conectada ao Program Counter, ao Instruction Register, ao banco de registradores e à ULA, estabelecendo assim um fluxo contínuo de informações.
+
+**IMAGEM**
+
+## Exercícios
+
+1) Faça o desenho esquemático de um processador.
+
+2) Justifique cada uma das conexões feitas.
+
+3) Qual é a função da unidade de controle?
+
+4) O que é uma instrução?
+
+## Gabarito
+
+1) asdasd
+2) O PC precisa ser conectado à memória, pois é ele quem manda o endereço para a memória. A memória precisa
+
