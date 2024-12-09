@@ -11,8 +11,8 @@ A ULA, mais conhecida como unidade lógica aritmética, é um componente crucial
 ### Registradores
 
 Os registradores são componentes responsáveis pelo armazenamento de informações temporárias, incluindo: resultados de cálculos, endereços de memória e operandos de uma conta feita na ULA. Dentre os diversos tipos de registradores, os principais são:
-  * Program counter: indica o endereço que a memória deve ler.
-  * Instruction register: armazena a instução que está sendo executada.
+  * Program counter(PC): indica o endereço que a memória deve ler.
+  * Registrador de instrução(IR): armazena a instução que está sendo executada.
   * Banco de registradores: conjunto de registradores responsáveis por armazenar valores que serão usados em operações.
 
 ### Memória
